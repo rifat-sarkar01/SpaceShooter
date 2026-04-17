@@ -1,0 +1,5 @@
+*.o
+*.exe
+*.dll
+glew32.dll
+glfw3.dll

@@ -1,0 +1,13 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.profiles.windows": {
+        "MINGW64": {
+            "path": "C:\\msys64\\usr\\bin\\bash.exe",
+            "args": ["--login", "-i"],
+            "env": {
+                "MSYSTEM": "MINGW64",
+                "PATH": "C:/msys64/mingw64/bin;C:/msys64/usr/bin"
+            }
+        }
+    }
+}
