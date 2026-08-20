@@ -1,8 +1,15 @@
 <div align="center">
 
-# 🚀 Space Shooter — Rage-Fang Edition
+# `> SPACE SHOOTER_`
 
-### *A retro-inspired 2D space shooter built from scratch in C++ & OpenGL*
+### _Rage-Fang Edition_
+
+<br/>
+
+A retro-inspired 2D space shooter built from scratch in **C++** & **OpenGL**.
+No engine. No frameworks. Just raw triangles and passion.
+
+<br/>
 
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue?logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![OpenGL](https://img.shields.io/badge/OpenGL-3.3-green?logo=opengl&logoColor=white)](https://www.khronos.org/opengl/)
@@ -10,20 +17,6 @@
 [![GLEW](https://img.shields.io/badge/GLEW-2.x-orange)](http://glew.sourceforge.net/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)]()
-
-<br/>
-
-**Pilot a toon-shaded starship. Annihilate alien swarms. Conquer boss battles.**
-
-<br/>
-
-```
-  ▄████▄   ███▄ ▄███▄   ▄▄▄█████▓ ██▀███   ▒█████      ▄▄▄█████▓▓█████  ██▀███   ███▄    █ ▓█████▄▄▄█████▓
- ▒██▀ ▀█  ▓██▒▀█▀ ██▒   ▓  ██▒ ▓▒▓██ ▒ ██▒▒██▒  ██▒    ▓  ██▒ ▓▒▓█   ▀ ▓██ ▒ ██▒ ██▓███   █ ▓█   ▀▓  ██▒ ▓▒
- ▒▓█    ▄ ▓██    ▓██░   ▒ ▓██░ ▒░▓██ ░▄█ ▒▒██░  ██▒    ▒ ▓██░ ▒░▒███   ▓██ ░▄█ ▒▓██  ▀█ ██▒▒▒███   ▒ ▓██░ ▒░
- ▒▓▓▄ ▄██▒▒██    ▒██    ░ ▓██▓ ░ ▒██▀▀█▄  ▒██   ██░    ░ ▓██▓ ░ ▒▓█  ▄ ▒██▀▀█▄  ▓██▒  ▐▌██▒▒▒▓█  ▄░ ▓██▓ ░
- ▒ ▓███▀ ░▒██▒   ░██▒      ▒██▒ ░ ░██▓ ▒██▒░ ████▓▒░      ▒██▒ ░ ░▒████▒░██▓ ▒██▒▒██░   ▓██░░▒████▒ ▒██▒ ░
-```
 
 </div>
 
